@@ -167,4 +167,3 @@ conv_done:
     mov $60, %rax
     xor %rdi, %rdi
     syscall
-    t
